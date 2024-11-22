@@ -13,4 +13,3 @@ spec:
     imagePullPolicy: IfNotPresent
     name: ubuntu
   restartPolicy: Always
-EOF
